@@ -1,0 +1,2 @@
+#lang racket
+(define (sum-of-squares-of-top-two x y z))
