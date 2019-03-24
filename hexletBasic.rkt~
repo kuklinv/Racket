@@ -1,0 +1,4 @@
+#lang racket
+(define midl
+  ((lambda (x y) (/ (+ x y) 2)) 2 4))
+(display midl)
