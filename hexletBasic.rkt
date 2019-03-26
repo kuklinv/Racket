@@ -16,3 +16,4 @@
 (define (sum x y) (+ x y))
 (define (square-of-sum x y)
           (* (sum x y) (sum x y)))
+(square-of-sum 2 3)
